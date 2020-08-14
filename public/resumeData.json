@@ -120,38 +120,44 @@
 		"projects": [
 			{
 				"title": "GitDrunk",
-				"category": "Be the ultimate Host",
+				"category": "Be the ultimate Host 🍹",
 				"image": "gitDrunk.gif",
 				"url": "https://party-of-five.github.io/gitDrunk/"
 			},
 			{
-				"title": "Weather via APIs",
+				"title": "Weather via APIs 🌡️",
 				"category": "Checkout your local weather forecast",
 				"image": "Dre's Weather Dashboard.gif",
 				"url": "https://juanlajara.github.io/Weather-Dashboard-via-APIs/"
 			},
 			{
-				"title": "EmpTracker",
+				"title": "EmpTracker 🛰️",
 				"category": "Command Line Tool for Tracking Employees",
 				"image": "employee-tracker.gif",
 				"url": "https://github.com/juanlajara/EmployeeTracker"
 			},
 			{
-				"title": "NoteTaken",
+				"title": "NoteTaken 📓",
 				"category": "Take Note deployed on Heroku",
 				"image": "NoteTakeApp.gif",
 				"url": "https://note-taker-by-dre.herokuapp.com/"
 			},
 			{
-				"title": "Command Line Tool - Team Manager",
+				"title": "Command Line Tool - Team Manager 📟",
 				"category": "A software engineering team generator via a the command line",
 				"image": "TeamCLIGenGif.gif",
 				"url": "https://github.com/juanlajara/Team-Generator-CLI"
 			},
 			{
-				"title": "PlansIts",
+				"title": "PlansIts 🚊",
 				"category": "Plan your day. Uses local storage for sotring history",
 				"image": "DayPlanner.gif",
+				"url": "https://github.com/juanlajara/Team-Generator-CLI"
+			},
+			{
+				"title": "JZ Quiz - My1st JS Code 🔥",
+				"category": "Plan your day. Uses local storage for sotring history",
+				"image": "JS Quiz Demo.gif",
 				"url": "https://github.com/juanlajara/Team-Generator-CLI"
 			}
 		]
