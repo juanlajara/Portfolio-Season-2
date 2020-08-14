@@ -1,0 +1,153 @@
+{
+	"main": {
+		"name": "Andres Lajara",
+		"description": "An experienced consultant with a demonstrated history of working in the computer software and (Re)insurance industry. Skilled in Global Enterprise Risk Management across multiple lines of business, Catastrophe Predictive Analytics. Skilled in Systems: Implementation, Optimization, and Integration (via APIs, ETL, Data science and BI Tools).",
+		"image": "profilepic.jpg",
+		"bio": "Providing Professional Services as a Business/Tech Consultant with a BA in Fin Tech, and credentials in Full Stack Software Development. Passionate about knowledge sharing, solving unique problems, ocean conservation, and kindness.",
+		"contactmessage": "Reach Out",
+		"email": "juanlajara001@gmail.com",
+		"phone": "305-733-1128",
+		"github": "https://github.com/juanlajara",
+		"linkedin": "https://www.linkedin.com/in/juan-andres-lajara-179a8442/",
+		"address": {
+			"street": "Earth Kingdom",
+			"city": "Austin",
+			"state": "TX",
+			"zip": "78723"
+		},
+		"website": "http://www.timbakerdev.com",
+		"resumedownload": "https://drive.google.com/file/d/1g3X0ivlze1WuDOzthyolV_paHMCu68oc/view?usp=sharing",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/JuanLajara4",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/juan-andres-lajara-179a8442/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/drelajara/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/juanlajara",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"education": [
+			{
+				"school": "The University of Texas at Austin",
+				"degree": "Full Stack Developer Bootcamp",
+				"graduated": "October 2020",
+				"description": "Gain hands-on experience in full-stack development. The programming curriculum teaches key skills and in-demand languages for web development, including: Computer Science applied to JavaScriptBrowser-Based Technologies (HTML, CSS, JavaScript, jQuery)Deployment (Heroku, Git)PHP (Laravel)Databases (MySQL, MongoDB)Server Side Development (Node.js, Express, MERN Stack)Quality Assurance"
+			},
+			{
+				"school": "Florida International University",
+				"degree": "Bachelors Fin Tech",
+				"graduated": "2011-2013",
+				"description": "Identify the functions of financial markets and institutions and examine their impact on the level of interest rates and interest rate differentials.Investigate advanced time value of money concepts and extend these concepts to mortgage mathematics, commercial mathematics, and capital budgeting.Explore the international integration of financial markets and analyze implications for financial managers.Examine the nature of the commercial banking business. Ascertain the measures of bank return and risk performance and how they are applied to bank valuation decisions and management performance assessment.Identify and analyze derivative instruments and strategies used by investors and corporations to hedge financial risks. Emphasis will be placed on identification of financial risk and designing optimal risk management strategies.Determine and analyze the appropriate measures of risk and return for various financial instruments. Understand the mechanics and regulation of financial securities exchanges and determine how the value of stocks, bonds, and securities are calculated."
+			}
+		],
+		"work": [
+			{
+				"company": "AAIS",
+				"title": "Senior Data Consultant, Data Engineering",
+				"years": "March 2010 - Present",
+				"description": "Every project is unique, and my role is different for each. Here at AAIS, I get to be a data engineer, software engineer, product owner, and professional services consultant. This variety feeds my passion for solving unique challenges, as well as, the opportunity to tinker with an ever changing toolbox of technologies. As a non-profit, our service is focused on our member's success, therefore the role I play is tailored to the clients needs. My background in both the business and technological side is constantly evolving, as my employment & educational history illustrates. I get to solve data migration (ELT) problems, data science challenges, solutions architecture puzzles, while doing what I love most - guiding others on how to benefit from technology without all the jargon and tailored to their skill level."
+			},
+			{
+				"company": "RMS",
+				"title": "Tech Consultant",
+				"years": "July 2018 - June 2019",
+				"description": "Implementing integrated solutions for a wide range of top-tier global insurance and reinsurance clients involving predictive catastrophe risk management software in order to institute industry best practices. Developed the world’s 1st automated daily roll up solution, which aggregates and reconciles 132M locations, 34M Insurance accounts, 1.5K Reinsurance Portfolios across 4 systems( Salesforce, RMS, SAP HANA, AWS) for 1 of the top 10 Reinsurance companies in World ( in market value). A month long process, done in 1 day.Working with clients, internal teams and development partners in the design and deployment of RMS’s new risk management platform by developing integration patterns to meet the needs of clients with varying levels of technical requirements.Engaging with external client development partners for phased implementation of the flagship risk management platform, and contributing to change management, enterprise integration, and other aspects of Platform deployment (Software Development Life Cycle).Developing a comprehensive knowledge base of reusable solution artifacts and design patterns.Providing technical leadership across all elements of Solutions Delivery and Solutions Engineering.As a Full stack developer and Business subject matter expert, mentoring junior members of the team, as well as, being a technical sounding board to the broader client facing teams.Accountable for timely deliverables to the development partner clients and to RMS’s internal development teams.Developing applications to support Underwriting and Cat Modeling workflow for Large Insurance, and Global (Re)Insurance organizations.Understanding client’s business processes and redesigning/re-engineering their workflows.Explaining technical(programming and business side) concepts to both technical and non-technical audiences .Knowledge in applications, data integration and web services."
+			},
+			{
+				"title": "Sr. Consulting Analyst",
+				"years": "Nov 2016 - July 2018",
+				"description": "Implementing integrated solutions for a wide range of top-tier global insurance and reinsurance clients involving predictive catastrophe risk management software in order to institute industry best practices. Developed the world’s 1st automated daily roll up solution, which aggregates and reconciles 132M locations, 34M Insurance accounts, 1.5K Reinsurance Portfolios across 4 systems( Salesforce, RMS, SAP HANA, AWS) for 1 of the top 10 Reinsurance companies in World ( in market value). A month long process, done in 1 day.Working with clients, internal teams and development partners in the design and deployment of RMS’s new risk management platform by developing integration patterns to meet the needs of clients with varying levels of technical requirements.Engaging with external client development partners for phased implementation of the flagship risk management platform, and contributing to change management, enterprise integration, and other aspects of Platform deployment (Software Development Life Cycle).Developing a comprehensive knowledge base of reusable solution artifacts and design patterns.Providing technical leadership across all elements of Solutions Delivery and Solutions Engineering.As a Full stack developer and Business subject matter expert, mentoring junior members of the team, as well as, being a technical sounding board to the broader client facing teams.Accountable for timely deliverables to the development partner clients and to RMS’s internal development teams.Developing applications to support Underwriting and Cat Modeling workflow for Large Insurance, and Global (Re)Insurance organizations.Understanding client’s business processes and redesigning/re-engineering their workflows.Explaining technical(programming and business side) concepts to both technical and non-technical audiences .Knowledge in applications, data integration and web services."
+			}
+		],
+		"skills": [
+			{
+				"name": "Web/Server-side APIs",
+				"level": "95%"
+			},
+			{
+				"name": "Javascript",
+				"level": "90%"
+			},
+			{
+				"name": "CSS/HTML/BootStrap",
+				"level": "80%"
+			},
+			{
+				"name": "NodeJS",
+				"level": "75%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "60%"
+			},
+
+			{
+				"name": "SQL/NoSQL/MongoDB",
+				"level": "70%"
+			},
+			{
+				"name": "Python",
+				"level": "55%"
+			},
+			{
+				"name": "R",
+				"level": "75%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "GitDrunk",
+				"category": "Be the ultimate Host",
+				"image": "gitDrunk.gif",
+				"url": "https://party-of-five.github.io/gitDrunk/"
+			},
+			{
+				"title": "Weather via APIs",
+				"category": "Checkout your local weather forecast",
+				"image": "Dre's Weather Dashboard.gif",
+				"url": "https://juanlajara.github.io/Weather-Dashboard-via-APIs/"
+			},
+			{
+				"title": "EmpTracker",
+				"category": "Command Line Tool for Tracking Employees",
+				"image": "employee-tracker.gif",
+				"url": "https://github.com/juanlajara/EmployeeTracker"
+			},
+			{
+				"title": "NoteTaken",
+				"category": "Take Note deployed on Heroku",
+				"image": "NoteTakeApp.gif",
+				"url": "https://note-taker-by-dre.herokuapp.com/"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "smirkspace.jpg",
+				"url": "http://www.smirkspace.com"
+			}
+		]
+	}
+}
