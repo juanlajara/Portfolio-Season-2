@@ -1,4 +1,4 @@
-![Employee Tracker](public/images/Dr▲'sWebsite.gif)
+![Gif](./public/images/Dr▲'sWebsite.gif)
 
 <table>
   <tr>
