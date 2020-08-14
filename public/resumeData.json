@@ -150,15 +150,27 @@
 			},
 			{
 				"title": "PlansIts 🚊",
-				"category": "Plan your day. Uses local storage for sotring history",
+				"category": "Plan your day. Uses local storage for storing history",
 				"image": "DayPlanner.gif",
-				"url": "https://github.com/juanlajara/Team-Generator-CLI"
+				"url": "https://juanlajara.github.io/Day-Planner/"
 			},
 			{
-				"title": "JZ Quiz - My1st JS Code 🔥",
-				"category": "Plan your day. Uses local storage for sotring history",
+				"title": "JZ Quiz - My 1st JS Code 🔥",
+				"category": "Tested my JS skills, now test yours!",
 				"image": "JS Quiz Demo.gif",
-				"url": "https://github.com/juanlajara/Team-Generator-CLI"
+				"url": "https://juanlajara.github.io/JS-Quiz/"
+			},
+			{
+				"title": "PwGen 🔑",
+				"category": "Generate a password, but you get to set the rules",
+				"image": "Dre's Password Gen.gif",
+				"url": "https://juanlajara.github.io/PasswordGenerator/"
+			},
+			{
+				"title": "BagIt 🏪",
+				"category": "Manage your grocery list - mastering React as a team",
+				"image": "Dre's Password Gen.gif",
+				"url": "https://bagit-and-tagit.herokuapp.com/"
 			}
 		]
 	}
