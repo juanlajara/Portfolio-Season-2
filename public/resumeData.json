@@ -143,10 +143,16 @@
 				"url": "https://note-taker-by-dre.herokuapp.com/"
 			},
 			{
-				"title": "Smirkspace",
-				"category": "(MVP Only) A React and Meteor based chat University project.",
-				"image": "smirkspace.jpg",
-				"url": "http://www.smirkspace.com"
+				"title": "Command Line Tool - Team Manager",
+				"category": "A software engineering team generator via a the command line",
+				"image": "TeamCLIGenGif.gif",
+				"url": "https://github.com/juanlajara/Team-Generator-CLI"
+			},
+			{
+				"title": "PlansIts",
+				"category": "Plan your day. Uses local storage for sotring history",
+				"image": "DayPlanner.gif",
+				"url": "https://github.com/juanlajara/Team-Generator-CLI"
 			}
 		]
 	}
