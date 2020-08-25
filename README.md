@@ -10,7 +10,7 @@
     <li>Create a repository with format <GITHUBUSERNAME>.github.io</li>
 
 </ul>
-<a href='https://juanlajara.github.io/' target='_blank'>Live Portfolio Link</a>
+<a href='https://portfolio-season2.herokuapp.com/' target='_blank'>Live Portfolio Link</a>
 </p>
 
 ![Gif](./public/images/Dr▲'sWebsite.gif)
@@ -62,4 +62,3 @@
 - Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 - Must properly utilize Bootstrap components and grid system.
-
