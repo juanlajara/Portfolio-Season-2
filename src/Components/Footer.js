@@ -6,7 +6,7 @@ class Footer extends Component {
 			var networks = this.props.data.social.map(function (network) {
 				return (
 					<li key={network.name}>
-						<a href={network.url}>
+						<a href={network.url} target="_blank">
 							<i className={network.className}></i>
 						</a>
 					</li>
@@ -24,7 +24,10 @@ class Footer extends Component {
 							<li>&copy; Andres Lajara</li>
 							<li>
 								Design by{" "}
-								<a title="Dre" href="https://github.com/juanlajara/Portfolio-Season-2">
+								<a
+									title="Dre"
+									href="https://github.com/juanlajara/Portfolio-Season-2"
+								>
 									Dre
 								</a>
 							</li>
