@@ -121,8 +121,8 @@ class Contact extends Component {
 											src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694361699413241856"
 											height="524"
 											width="504"
-											frameborder="0"
-											allowfullscreen=""
+											frameBorder="0"
+											allowFullScreen=""
 											title="Embedded post"
 										></iframe>
 									</span>
@@ -136,8 +136,8 @@ class Contact extends Component {
 											src="https://www.linkedin.com/embed/feed/update/urn:li:share:6679698148882989056"
 											height="505"
 											width="504"
-											frameborder="0"
-											allowfullscreen=""
+											frameBorder="0"
+											allowFullScreen=""
 											title="Embedded post"
 										></iframe>
 									</span>
