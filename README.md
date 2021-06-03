@@ -10,7 +10,7 @@
     <li>Create a repository with format <GITHUBUSERNAME>.github.io</li>
 
 </ul>
-<a href='https://portfolio-season2.herokuapp.com/' target='_blank'>Live Portfolio Link</a>
+<a href='https://juanlajara.github.io/Portfolio-Season-2/' target='_blank'>Live Portfolio Link</a>
 </p>
 
 ![Gif](./public/images/Dr▲'sWebsite.gif)
