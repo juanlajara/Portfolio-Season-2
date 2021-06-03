@@ -111,41 +111,10 @@ class Contact extends Component {
 								<span>{phone}</span>
 							</p>
 						</div>
-
+						
 						<div className="widget widget_tweets">
-							<h4 className="widget-title">Latest Post</h4>
-							<ul id="twitter">
-								<li>
-									<span>
-										<iframe
-											src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694361699413241856"
-											height="524"
-											width="504"
-											frameBorder="0"
-											allowFullScreen=""
-											title="Embedded post"
-										></iframe>
-									</span>
-									<b>
-										<a href="#">2 Days Ago</a>
-									</b>
-								</li>
-								<li>
-									<span>
-										<iframe
-											src="https://www.linkedin.com/embed/feed/update/urn:li:share:6679698148882989056"
-											height="505"
-											width="504"
-											frameBorder="0"
-											allowFullScreen=""
-											title="Embedded post"
-										></iframe>
-									</span>
-									<b>
-										<a href="#">3 Days Ago</a>
-									</b>
-								</li>
-							</ul>
+							<h4 className="widget-title"></h4>
+							<ul id="twitter"></ul>
 						</div>
 					</aside>
 				</div>
