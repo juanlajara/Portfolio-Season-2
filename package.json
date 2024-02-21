@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "homepage": "https://juanlajara.github.io/Portfolio-Season-2/",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "anix": "^0.3.3",
     "jquery": "^3.2.1",
