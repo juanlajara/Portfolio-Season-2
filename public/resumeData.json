@@ -95,7 +95,7 @@
 			},
 			{
 				"name": "NodeJS",
-				"level": "75%"
+				"level": "100%"
 			},
 			{
 				"name": "ReactJs",
@@ -104,11 +104,11 @@
 
 			{
 				"name": "SQL/NoSQL/MongoDB",
-				"level": "70%"
+				"level": "75%"
 			},
 			{
 				"name": "Python",
-				"level": "55%"
+				"level": "75%"
 			},
 			{
 				"name": "R",
