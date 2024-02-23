@@ -15,7 +15,7 @@
 			"state": "TX",
 			"zip": "78723"
 		},
-		"website": "http://www.timbakerdev.com",
+		"website": "https://drewebsite-ffd69d7f67aa.herokuapp.com/",
 		"resumedownload": "https://drive.google.com/file/d/1OM4V_urx33MBhaWXTF4RosQEPPefywvR/view?usp=sharing",
 		"social": [
 			{
@@ -121,7 +121,7 @@
 			{
 				"title": "GitDrunk",
 				"category": "Be the ultimate Host 🍹",
-				"image": "gitDrunk.gif",
+				"image": "public/images/portfolio/gitDrunk.gif",
 				"url": "https://party-of-five.github.io/gitDrunk/"
 			},
 			{
